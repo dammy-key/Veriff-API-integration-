@@ -1,0 +1,6 @@
+com\example\veriff\VeriffController.class
+com\example\veriff\SessionRequest$Verification.class
+com\example\veriff\SessionResponse.class
+com\example\veriff\VeriffIntegrationApplication.class
+com\example\veriff\VeriffService.class
+com\example\veriff\SessionRequest.class
